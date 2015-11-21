@@ -20,4 +20,6 @@ hello <- function() {
   print("Hello, world! -- version 7 on laptop")
 
   print("another change apparently in master")
+
+  print("and this is a change back on the laptop")
   }
