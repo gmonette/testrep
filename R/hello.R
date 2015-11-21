@@ -11,6 +11,7 @@
 #' -   Build and Reload Package:  'Ctrl + Shift + B'
 #' -   Check Package:             'Ctrl + Shift + E'
 #' -   Test Package:              'Ctrl + Shift + T'
+#'
 #' @export
 hello <- function() {
   print("Hello, world! -- version 6 on blackwell")
@@ -22,4 +23,5 @@ hello <- function() {
   print("another change apparently in master")
 
   print("and this is a change back on the laptop")
+  # and here's the latest change on blackwell
   }
