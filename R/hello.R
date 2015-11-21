@@ -13,5 +13,5 @@
 #' -   Test Package:              'Ctrl + Shift + T'
 #' @export
 hello <- function() {
-  print("Hello, world! -- version 5 on blackwell")
+  print("Hello, world! -- version 6 on blackwell")
 }
