@@ -14,5 +14,10 @@
 #' @export
 hello <- function() {
   print("Hello, world! -- version 6 on blackwell")
+
   print("after mucking around helplessly and restoring? origin/master to master and making a change")
-}
+
+  print("Hello, world! -- version 7 on laptop")
+
+  print("another change apparently in master")
+  }
