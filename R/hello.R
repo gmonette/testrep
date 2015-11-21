@@ -14,4 +14,5 @@
 #' @export
 hello <- function() {
   print("Hello, world! -- version 6 on blackwell")
+  print("Hello, world! -- version 7 on laptop")
 }
